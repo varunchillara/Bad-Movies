@@ -1,7 +1,7 @@
 module.exports = {
   host: 'localhost',
   user: 'root',
-  password: '',
+  password: 'chillara',
   database: 'badmovies',
-  API_KEY: '',
+  API_KEY: '793af5fc61e67616677dadd5026b44be',
 };
